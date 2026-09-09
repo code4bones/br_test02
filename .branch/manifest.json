@@ -16,9 +16,9 @@
   "github_repository_topics": [
     "branchbootstrapv0"
   ],
-  "generated_at": 1788945488,
+  "generated_at": 1788946955,
   "record_count": 1,
-  "records_sha256": "8cd433c335dd2f4453b5b96dd7907c773788a7658cd427c6a17beef1e57dcf22",
+  "records_sha256": "0171a8258dbb2cd57f0c33029bd9fe220d76989378b7802f5d1f78c49603919b",
   "diagnostics": {
     "authority": "unsigned carrier metadata only; signed BootstrapBeacon bytes remain authoritative",
     "validation": "live records validated before archive generation"
